@@ -1,5 +1,7 @@
 ---
+branches:
+- master
 projects:
   PrisonsCore:
-    icon: icon.jpg
+path: ""
 ...
